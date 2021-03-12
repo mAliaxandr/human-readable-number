@@ -12,6 +12,7 @@ module.exports = function toReadable (number) {
         0: 'zero'
     }
     const ten = {
+        1222:'test',
         10: 'ten',
         11: 'eleven',
         12: 'twelve',
